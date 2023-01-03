@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nurul-aiza
-- 👀 I’m interested in web development
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning anything related to web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...reach me at caprezz84@gmail.com
